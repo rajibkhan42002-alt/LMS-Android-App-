@@ -10,4 +10,44 @@
         android:name="com.lms_application.SignInFragment"
         android:label="fragment_sign_in"
         tools:layout="@layout/fragment_sign_in" />
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.lms_application.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" />
+    <fragment
+        android:id="@+id/onBoardfScreen01Fragment"
+        android:name="com.lms_application.OnBoardfScreen01Fragment"
+        android:label="fragment_on_boardf_screen01"
+        tools:layout="@layout/fragment_on_board_screen01" />
+    <fragment
+        android:id="@+id/onBoardScreen02Fragment"
+        android:name="com.lms_application.OnBoardScreen02Fragment"
+        android:label="fragment_on_board_screen02"
+        tools:layout="@layout/fragment_on_board_screen02" />
+    <fragment
+        android:id="@+id/onBoardScreen03Fragment"
+        android:name="com.lms_application.OnBoardScreen03Fragment"
+        android:label="fragment_on_board_screen03"
+        tools:layout="@layout/fragment_on_board_screen03" />
+    <fragment
+        android:id="@+id/onBoardScreen04Fragment"
+        android:name="com.lms_application.OnBoardScreen04Fragment"
+        android:label="fragment_on_board_screen04"
+        tools:layout="@layout/fragment_on_board_screen04" />
+    <fragment
+        android:id="@+id/onBoardScreen05Fragment"
+        android:name="com.lms_application.OnBoardScreen05Fragment"
+        android:label="fragment_on_board_screen05"
+        tools:layout="@layout/fragment_on_board_screen05" />
+    <fragment
+        android:id="@+id/resetPasswordFragment"
+        android:name="com.lms_application.ResetPasswordFragment"
+        android:label="fragment_reset_password"
+        tools:layout="@layout/fragment_reset_password" />
+    <fragment
+        android:id="@+id/resetPasswordDoneFragment"
+        android:name="com.lms_application.ResetPasswordDoneFragment"
+        android:label="fragment_reset_password_done"
+        tools:layout="@layout/fragment_reset_password_done" />
 </navigation>
